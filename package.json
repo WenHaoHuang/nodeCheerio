@@ -1,0 +1,26 @@
+{
+  "name": "node-cheerio",
+  "version": "1.0.0",
+  "description": "内容采集",
+  "author": "wenhao.huang",
+  "private": true,
+  "scripts": {
+    "start": "npm news.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "bufferhelper": "^0.2.1",
+    "chalk": "^2.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.23"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
