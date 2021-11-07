@@ -5,14 +5,14 @@
   "author": "wenhao.huang",
   "private": true,
   "scripts": {
-    "start": "npm news.js"
+    "start": "node news.js"
   },
-  "dependencies": {},
   "devDependencies": {
-    "bufferhelper": "^0.2.1",
-    "chalk": "^2.0.1",
-    "cheerio": "^1.0.0-rc.2",
-    "iconv-lite": "^0.4.23"
+    "request": "2.88.2",
+    "bufferhelper": "0.2.1",
+    "chalk": "2.0.1",
+    "cheerio": "1.0.0-rc.2",
+    "iconv-lite": "0.4.23"
   },
   "engines": {
     "node": ">= 4.0.0",
