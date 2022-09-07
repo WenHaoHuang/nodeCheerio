@@ -11,8 +11,8 @@
     "request": "2.88.2",
     "bufferhelper": "0.2.1",
     "chalk": "2.0.1",
-    "cheerio": "1.0.0-rc.2",
-    "iconv-lite": "0.4.23"
+    "cheerio": "1.0.0-rc.12",
+    "iconv-lite": "0.6.3"
   },
   "engines": {
     "node": ">= 4.0.0",
